@@ -41,4 +41,4 @@ else if (opcao === 3){
 }
 else if (opcao === 4){
     console.log(dividir(a , b));
-}}
+}}  
